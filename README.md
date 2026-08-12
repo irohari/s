@@ -10,6 +10,8 @@ if some of them look similar it is because i did my best to recreate them as clo
 
 please feel free to use them in any way you would like for any purpose
 
+you are more than welcome to let me know if you use them but please dont feel obligated to do so
+
 i would simply be very happy knowing that something i made is being used by others
 
-thank you
+thank you so much always
