@@ -1,4 +1,6 @@
-last update: 8/12/26
+last update: 8/19/26
+
+[![aristia](https://github.com/irohari/s/blob/main/files/non-dt/aristia/aristia.png?raw=true)](https://github.com/irohari/s/raw/refs/heads/main/files/non-dt/aristia/aristia.osk)
 [![LARP](https://github.com/irohari/s/blob/main/files/non-dt/katagiri/katagiri2.png?raw=true)](https://github.com/irohari/s/raw/refs/heads/main/files/non-dt/katagiri/katagiri2.osk)
 [![katagiri](https://github.com/irohari/s/blob/main/files/non-dt/katagiri/katagiri.png?raw=true)](https://github.com/irohari/s/raw/refs/heads/main/files/non-dt/katagiri/katagiri.osk)
 [![rafis](https://github.com/irohari/s/blob/main/files/dt/rafis/rafis.png?raw=true)](https://github.com/irohari/s/raw/refs/heads/main/files/dt/rafis/rafis.osk)
